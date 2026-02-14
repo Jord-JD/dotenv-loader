@@ -23,7 +23,7 @@
     ]
   },
   "replace": {
-    "jord-jd/dotenv-loader": "self.version"
+    "divineomega/dotenv-loader": "self.version"
   },
   "extra": {
     "branch-alias": {
