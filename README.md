@@ -6,7 +6,7 @@ projects that do not already make use of a `.env` file.
 
 ## Quick Start
 
-Simple run `composer require DivineOmega/dotenv-loader` to install. 
+Simple run `composer require jord-jd/dotenv-loader` to install. 
 
 You'll then be able to create a `.env` file in your project's root directory 
 (in the same location as your `composer.json` file). Any variables in the 

@@ -1,6 +1,5 @@
 {
-
     "require": {
-        "DivineOmega/dotenv-loader": "2.*"
+        "jord-jd/dotenv-loader": "^4.0"
     }
 }
